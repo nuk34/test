@@ -36,3 +36,4 @@ dependencies:
   - parfive=1.0
   - pip
   - requests
+  - openssl=1.1.1i
